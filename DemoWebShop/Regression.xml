@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.DemoWebShop.TestScript.TestScript_2"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_1"/>
+      <class name="com.DemoWebShop.TestScript.TestScript19"/>
+      <class name="com.DemoWebShop.TestScript.TestScript18"/>
+      <class name="com.DemoWebShop.TestScript.TestScript17"/>
+      <class name="com.DemoWebShop.TestScript.TestScript16"/>
+      <class name="com.DemoWebShop.TestScript.TestScript15"/>
+      <class name="com.DemoWebShop.TestScript.TestScript14"/>
+      <class name="com.DemoWebShop.TestScript.TestScript13"/>
+      <class name="com.DemoWebShop.TestScript.TestScript11"/>
+      <class name="com.DemoWebShop.TestScript.TestScript10"/>
+      <class name="com.DemoWebShop.TestScript.TestScript21"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_9"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_8"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_7"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_6"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_5"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_4"/>
+      <class name="com.DemoWebShop.TestScript.TestScript_3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

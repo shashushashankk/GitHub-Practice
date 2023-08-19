@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[url launched]]>
+    </line>
+    <line>
+      <![CDATA[Application logedin]]>
+    </line>
+    <line>
+      <![CDATA[Your order has been successfully processed!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-12T18:56:02 IST" name="Default suite" finished-at="2023-02-12T18:56:41 IST" duration-ms="39458">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T18:56:02 IST" name="Default test" finished-at="2023-02-12T18:56:41 IST" duration-ms="39458">
+      <class name="_DemoWebShop_Test.TestScript_3">
+        <test-method is-config="true" signature="launchBrowsere()[pri:0, instance:_DemoWebShop_Test.TestScript_3@32502377]" started-at="2023-02-12T18:56:02 IST" name="launchBrowsere" finished-at="2023-02-12T18:56:17 IST" duration-ms="15410" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[url launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowsere -->
+        <test-method is-config="true" signature="login()[pri:0, instance:_DemoWebShop_Test.TestScript_3@32502377]" started-at="2023-02-12T18:56:17 IST" name="login" finished-at="2023-02-12T18:56:20 IST" duration-ms="2459" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application logedin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="main()[pri:0, instance:_DemoWebShop_Test.TestScript_3@32502377]" started-at="2023-02-12T18:56:20 IST" name="main" finished-at="2023-02-12T18:56:41 IST" duration-ms="21479" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Your order has been successfully processed!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- _DemoWebShop_Test.TestScript_3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
