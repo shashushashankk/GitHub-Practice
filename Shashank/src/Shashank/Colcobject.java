@@ -21,8 +21,7 @@ public class Colcobject
 {
 	public static void main(String[] args) 
 	{
-		
 		Slipper s =new Sheos(10);
-		
+		s.dip();
 	}
 }
